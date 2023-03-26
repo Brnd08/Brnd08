@@ -1,7 +1,8 @@
 
 ## My stats
-![Brdn08 stats](https://github-readme-stats.vercel.app/api?username=Brnd08&theme=radical&show_icons=true&count_private=true&include_all_commits=true&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brnd08&layout=default&theme=radical&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brnd08&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brnd08&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brnd08&theme=2077&utcOffset=8)
 ## About me
 - 👋 Hi, I’m @Brnd08
 - 👀 I’m a java developer just learning more and more
