@@ -11,7 +11,7 @@
 [![Platzi Downloader Proyect](https://github-readme-stats.vercel.app/api/pin/?username=brnd08&repo=platziDownloader&theme=radical)](https://github.com/Brnd08/platziDownloader)
 [![Bearbikes website](https://github-readme-stats.vercel.app/api/pin/?username=Proximalbag3226&repo=bearbikes&theme=radical)](https://github.com/Proximalbag3226/Bearbikes)
 [![Simple kerberos secured chat](https://github-readme-stats.vercel.app/api/pin/?username=brnd08&repo=Kerberos_CDC&theme=radical)](https://github.com/Brnd08/Kerberos_CDC)
-[![Scientific android calculator](https://github-readme-stats.vercel.app/api/pin/?username=brnd08&repo=AndroidCalculator&theme=radical)]([https://github.com/Brnd08/Kerberos_CDC](https://github.com/Brnd08/AndroidCalculator))
+[![Scientific android calculator](https://github-readme-stats.vercel.app/api/pin/?username=brnd08&repo=AndroidCalculator&theme=radical)](https://github.com/Brnd08/AndroidCalculator)
 
 
 <!---
