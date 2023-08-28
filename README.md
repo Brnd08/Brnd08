@@ -2,7 +2,7 @@
 ## My stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brnd08&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brnd08&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brnd08&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brnd08&theme=2077&utcOffset=-6)
 ## About me
 - 👋 Hi, I’m @Brnd08
 - 👀 I’m a java developer just learning more and more
